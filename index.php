@@ -40,10 +40,8 @@
             <a class="nav-link" href="Front/personajes.php">Personajes</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="Front/fechas.php">Fechass</a>
+            <a class="nav-link" href="Front/fechas.php">Fechas</a>
           </li>
-            <br>
-            <h1>HOLA MUNDO</h1>
           <li class="nav-item">
             <a class="nav-link" href="contact.html">Contacto</a>
           </li>
